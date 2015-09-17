@@ -1,19 +1,19 @@
 # General
-name: Minimal-Block
-description: "Minimalistic, friendly, responsive."
-url: http://localhost:4000
+name: RoDI
+description: Robot Didáctico Inalámbrico
+url: https://rodibot.github.io
 
 markdown: redcarpet
 highlighter: pygments
 
-paginate: 5
+paginate: 10
 permalink: /:title
 
 # Social share and comments.
-disqus-id: yourusername
-twitter: yourusername
-github: yourusername
-google: +yourusername
+#disqus-id:
+#twitter:
+#github:
+#google:
 
 # RSS feed
 rss-feed-limit: 10
