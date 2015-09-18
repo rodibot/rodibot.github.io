@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About RoDI"
+title: "Get in touch with us"
 ---
 
 Missing contact information
