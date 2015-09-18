@@ -1,7 +1,7 @@
 # General
 name: RoDI
 description: Robot Didáctico Inalámbrico
-url: https://rodibot.github.io
+url: http://rodibot.github.io
 
 markdown: redcarpet
 highlighter: pygments
