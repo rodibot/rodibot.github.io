@@ -5,7 +5,7 @@ date:   2015-12-14 00:00:00
 categories: [General]
 ---
 
-RoDI is in its escence and Arduino-based board with a WiFi module, motors, sensores and a clever firmware on it.
+RoDI is in its escence and Arduino-based board with a WiFi module, motors, sensors and a clever firmware on it.
 
 ![RoDI]({{ site.url }}/assets/rodi-v11.jpg)
 
